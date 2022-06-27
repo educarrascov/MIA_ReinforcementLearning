@@ -1,4 +1,4 @@
-# MIA_ReinforcementLearning <img src="0. Trabajo Final MIA/img/logo.png" align="right" width = "95px"/>
+# MIA_ReinforcementLearning <img src="img/logo.png" align="right" width = "95px"/>
     
 Repositorio creado para el **Curso de Reinforcement Learning (Aprendizaje Reforzado)** en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez.
 
