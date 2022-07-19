@@ -13,3 +13,4 @@ Profesor: Jorge Vásquez. Facultad de Ingeniería y Ciencias, UAI.
 [**Tarea Nº 1: Modelo CartPole VO**](https://github.com/educarrascov/MIA_ReinforcementLearning/blob/main/Tarea%201.ipynb).
 
 [**Tarea Nº 2: Multi-Armed Bandit**](https://github.com/educarrascov/MIA_ReinforcementLearning/blob/main/Tarea%202.ipynb).
+Versión [PDF](https://github.com/educarrascov/MIA_ReinforcementLearning/blob/main/Informe%20Nº2%20-%20Reinforcement%20Learning.pdf).
